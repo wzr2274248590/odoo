@@ -1,0 +1,110 @@
+{
+    "PRODUCTTEXT": "\u62d6\u8f66\u6784\u67b6\u4e0e\u8f6e\u5bf9\u3001\u6795\u6881\u5b89\u88c5380BLR3",
+    "SCHEDULEDCOMPLETIONDATE": "2021-09-16 08:50:00",
+    "ZXNUM": "\u4ea7\u7ebf1",
+    "PRODUCTDOCS": {
+        "PRODUCTDOC": [
+            {
+                "TAG": null,
+                "DESCRIPT": "\u62d6\u8f66\u6784\u67b6\u4e0e\u8f6e\u5bf9\u3001\u6795\u6881\u5b89\u88c5380BLR3\u7ed3\u6784\u5316\u6587\u6863",
+                "DOCVR": "K",
+                "DOCCLASS": "TM6",
+                "DOCURL": "http://172.31.120.34:8080/ldap/getDms.jsp?dokar=TM6&doknr=D0000207633&dokvr=K&index=1",
+                "DARTXT": "\u5510\u8f66\u5de5\u827a\u6587\u6863"
+            }
+        ]
+    },
+    "SCHEDULEDSTARTDATE": "2021-07-09 00:00:00",
+    "PROJECTNO": "T-70102",
+    "PROJECTTEXT": "2021\u5e74CRH380BL\u52a8\u8f66\u7ec4\u4e94\u7ea7\u4fee\u751f\u4ea7\u9879\u76ee",
+    "ORDERQUANTITY": "1",
+    "PARENTWIPORDERTYPE": "231",
+    "CARNO": "C3545B02",
+    "WIPORDERNO": "003300794496",
+    "WIDOCS": {
+        "WIDOC": [
+            {
+                "DOCNUMBER": "D0000207633",
+                "DOCURL": "http://plm.tangche.com/Windchill/wtcore/test/doDownloadFile.jsp?contentholderOid=VR:wt.doc.WTDocument:2806284579&version=K",
+                "DESCRIPT": "\u62d6\u8f66\u6784\u67b6\u4e0e\u8f6e\u5bf9\u3001\u6795\u6881\u5b89\u88c5380BLR3\u7ed3\u6784\u5316\u6587\u6863",
+                "DOCVR": "K"
+            }
+        ]
+    },
+    "FACILITY": "JX02",
+    "WBSCODE": null,
+    "ORDERSTATUS": "120",
+    "PARENTWIPORDERNO": null,
+    "PRODUCTNO": "M000002533639",
+    "ZCC": null,
+    "WIPORDERTYPE": "231",
+    "ZTMBH": null,
+    "PROCESS": "M000002533639-K-1001",
+    "MODELDOCS": {
+        "MODELDOC": [
+            {
+                "MODELDESC": "JP04_\u7535\u673a\u53ca\u51cf\u632f\u5668\u5b89\u88c5",
+                "URLLOCATION": "http://plm.tangche.com/Windchill/wtcore/test/CreoShow.jsp?oid=VR:wt.epm.EPMDocument:1561765945",
+                "NAME": "T0011492408_G_JP04.ASM",
+                "PRODUCTNO": "M000002533639",
+                "FLAG": null,
+                "REVISION": "A.5"
+            }
+        ]
+    },
+    "MOMWIPORDEROPR": {
+        "RESOURCENAMES": {
+            "RESOURCENAME": [
+                "65965",
+                "00959",
+                "34400063",
+                "63825",
+                "66007",
+                "81964",
+                "65571",
+                "65576"
+            ]
+        },
+        "SCHEDULEDSTARTDATE": "2021-07-09 00:00:00",
+        "SKILLS": {
+            "SKILL": [
+                "GXJNZXJDJ0009"
+            ]
+        },
+        "TEXT": "\u76d1\u9020\u6838\u67e5",
+        "OPRSTATUS": "120",
+        "WORKCENTER": "TS30110703",
+        "RESOURCEGROUP": "ZXJLCB",
+        "SCHEDULEDCOMPLETIONDATE": "2021-09-16 08:50:00",
+        "LOCATION": "TS301107030101",
+        "STARTEMPLOYEE": "64493",
+        "OPRSEQUENCENO": "0270",
+        "MOMDISPOSITIONS": {
+            "MOMDISPOSITION": [
+                {
+                    "SPECIFICATIONDESC": "\u76d1\u9020\u6838\u67e5\u68c0\u67e5\u9879",
+                    "CHARACTERISTICDESC": "\u6587\u4ef6\u6838\u67e5:\u6587\u4ef6\u6838\u67e5",
+                    "DTID": "118357887",
+                    "TESTVALUE": null,
+                    "LINESEQUENCENO": "5",
+                    "CHARACTERISTIC": "0000221571-K-01",
+                    "CHARACTERISTICEXTEND": "\u786e\u8ba4\u5361\u7247\u586b\u5199\u89c4\u8303\uff0c\u65e0\u5361\u7247\u7f3a\u5931\uff0c\u6f0f\u586b\u73b0\u8c61",
+                    "SEQUENCENO": "1",
+                    "CHARACTERISTICTYPE": "1",
+                    "CHARACTERISTICCLASS": "\u76d1\u9020\u68c0",
+                    "UPPERCONTROLLIMIT": null,
+                    "ECHARACTERISTICDESC": "\u6587\u4ef6\u6838\u67e5:\u6587\u4ef6\u6838\u67e5",
+                    "MEANVALUE": null,
+                    "UOMCODE": null,
+                    "DISPOSITION": "D1450693",
+                    "ATTRIBUTE": null,
+                    "TARGETVALUE": null,
+                    "VARIABLENAME": "50.7.2_轴承单元组装-180-4",
+                    "LOWERCONTROLLIMIT": null,
+                    "RECORDVALUE": null
+                }
+            ]
+        }
+    },
+    "PROCESSREVISION": "K"
+}
